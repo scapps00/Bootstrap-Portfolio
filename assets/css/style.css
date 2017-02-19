@@ -1,0 +1,58 @@
+body {
+	background: url("../images/seigaiha.png");
+}
+
+#top-bar {
+	border-bottom: 2px solid #cccccc;
+	height: 76px;
+}
+
+.white {
+	background-color: #ffffff;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 15px;
+	height: 75px;
+	line-height: 75px;
+	vertical-align: center;
+}
+
+.teal {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	height: 75px;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+a {
+	color: #777777;
+	text-decoration: none;
+}
+
+#me {
+	width: 30%;
+	float: left;
+	margin: 0px 20px 20px 0px;
+}
+
+.col-sm-8, .col-sm-3 {
+	background-color: #ffffff;
+	border: 2px solid #cccccc;
+	margin: 40px 15px 0px 15px;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 17px;
+	line-height: 40px;
+}
