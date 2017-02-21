@@ -1,3 +1,19 @@
+@keyframes color {
+    0%   {background-color: #4aaaa5;}
+    25%  {background-color: #40d1c9;}
+    50%  {background-color: #1f706b;}
+    100% {background-color: #4aaaa5;}
+}
+
+@keyframes border {
+	0%	{border-radius: 0px;}
+	20% {border-radius: 5px;}
+	40% {border-radius: 10px;}
+	60% {border-radius: 15px;}
+	80% {border-radius: 20px;}
+	100% {border-radius: 0px;}
+}
+
 body {
 	background: url("../images/seigaiha.png");
 }
@@ -22,11 +38,13 @@ body {
 }
 
 .teal {
-	background-color: #4aaaa5;
 	color: white;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	text-align: center;
 	height: 75px;
+	animation-name: color;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
 }
 
 h1 {
@@ -48,6 +66,9 @@ a {
 	background-color: #ffffff;
 	border: 2px solid #cccccc;
 	margin: 40px 15px 0px 15px;
+	animation-name: border;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
 }
 
 h2 {
