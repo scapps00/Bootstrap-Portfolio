@@ -9,6 +9,7 @@ Bootstrap is needed. Included in the code.
 ## Built With
 
 * [Bootstrap](https://getbootstrap.com/) - Used for layout
+* HTML and CSS
  
 
 ## Authors
