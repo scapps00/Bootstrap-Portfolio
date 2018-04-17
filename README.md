@@ -9,7 +9,7 @@ Bootstrap is needed. Included in the code.
 ## Built With
 
 * [Bootstrap](https://getbootstrap.com/) - Used for layout
-* [Subtle Patterns] (https://www.toptal.com/designers/subtlepatterns/) - background pattern 
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - background pattern 
 * HTML and CSS
  
 
