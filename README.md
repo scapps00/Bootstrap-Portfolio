@@ -15,7 +15,7 @@ Bootstrap is needed. Included in the code.
 
 ## Authors
 
-* **Samantha Capps** (https://github.com/scapps00)
+* **Samantha Capps** (https://github.com/scapps00) based on an assignment from the UNC Coding Bootcamp 2017
 
 ## License
 
